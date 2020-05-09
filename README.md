@@ -12,10 +12,10 @@ Problem Statement
 
 ● A question is classified as inappropriate if 
 
-  ○ Targets specific group of people  
+     ○ Targets specific group of people  
   
-  ○ Contains sexual content 
+     ○ Contains sexual content 
   
-  ○ Derogatory remarks
+     ○ Derogatory remarks
 
 The main aim of this project is to detect such inappropriate questions using different Machine Learning Techniques. 
